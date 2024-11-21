@@ -1,2 +1,4 @@
-# hello-world
-Este repositorio es para practicar el flujo de GitHub
+# Sobre mi
+
+- Estudiante de Ingenieria en Informatica
+- Aprendiendo a usar nuevas herramientas
